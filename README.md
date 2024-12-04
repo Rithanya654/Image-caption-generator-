@@ -1,1 +1,1 @@
-# Image-caption-generator-
+This project involves building a system that can automatically generate descriptive captions for images. By combining computer vision to analyze the content of images and natural language processing to create meaningful descriptions, the system bridges the gap between visual data and human language. It can be applied to tasks like creating alt text for accessibility, enhancing image search engines, or automating content generation for media and e-commerce platforms.
